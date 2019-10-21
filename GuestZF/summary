@@ -1,0 +1,76 @@
+## Lumped Pathway Metabolic Model of Organic Carbon Accumulation and ##Mobilization by the Algae C. Reinhardtii
+ 
+Experimental Methods
+
+Cultivation: 
+
+Medium: Allens BG-11, modified with silicate, adjusted nitrogen and phosphorus concentrations (Genaue Zusammensetzung gegeben)
+
+HoehexBreitexTiefe = (487x258x30)mm
+UV-stabilisiertes Acryl 
+3L Kulturvolumen 
+Tag:Nacht = 14h:10h 
+D = 0.41+-0.01 pro Tag
+gmix = 0.2 - 0.3 Liter Lufr pro Liter Reaktor pro min
+
+pH = 7.35 - 7.55
+    -> kontrolliert mit 99% CO2-Gas
+    
+16 Fluorescent Light Bulbs
+    -> 400 +- 18 umol Photonen pro m^2 pro s (PAR!, also lambda = (400-700)nm auf jeder Seite des PBR (jeder?)
+    
+Average irradiance according to equation
+
+
+----> Es wurden Cyclostats verwendet, <==> 'Chemostats subjected to a repeatedly varying light or temperature regime, dynamic equilibrium of balanced growth and appropriately poised for estimation of model parameters'
+
+Welche Groessen wurden bestimmt?
+
+    Total and Volatile Suspended Solids
+    
+    -> TSS = Dry Solids Concentration = dry weight of not dissolved particles
+        -> Filtrieren, Waschen mit deionisiertem Wasser (zum entfernen geloester Stoffe), trocknen, wiegen
+        
+    -> VSS wird ueber verbrennen bestimmt, also 'ash free dry weight'
+    
+        => beides Groessen aus der Wasserqualitaetsbestimmung...wo versteckt sich Biomasse?
+        
+    Proteine
+    
+    Konzentration bestimmt mit 'Microbicinchoninic acid method' (micro BCA), basierend auf Oxidation von Cu2+ zu Cu+ durch Proteine in alkalischer Umgebung. Cu+ bildet Chelatkomplex mit BCA, dadurch Farbaenderung
+        
+        => Auch mit SDS-Page moeglich? Sensitivitaet im 5 - 20 microgram/L-Bereich, Sensitivitaet SDS-PPAGE?
+        
+    Fettsaeuren
+    
+    Messung ueber 'Fatty Acid Methyl Esters' (FAME) 
+    Methode mit Proben bekannter VSS, chem. Reaktion mit saurem Methanol... (Levine et al, ref 23)
+    
+
+    Kohlenhydrate
+    
+    method of Dubois (ref 24)
+    
+        -> Determination of Dynamic Stored Carbohydrates (Modifikation im Messchritt noetig, um Zellwand etc. nicht miteinzubeziehen)
+        
+    Nitrat und loesliches Phosphat
+    
+    Chromatografisch, vorherige Filtration
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
